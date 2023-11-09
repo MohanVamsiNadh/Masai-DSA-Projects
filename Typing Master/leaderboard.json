@@ -1,0 +1,29 @@
+{
+  "leaderboard": [
+    {
+      "username": "Mohan",
+      "wpm": 20.342909407215792,
+      "category": "C"
+    },
+    {
+      "username": "Vamsi",
+      "wpm": 18.53835066162397,
+      "category": "Python"
+    },
+    {
+      "username": "Mohan",
+      "wpm": 16.09711572243652,
+      "category": "C"
+    },
+    {
+      "username": "Omkar",
+      "wpm": 12.58185273381834,
+      "category": "TypeScript"
+    },
+    {
+      "username": "sachin",
+      "wpm": 9.041178489177288,
+      "category": "JavaScript"
+    }
+  ]
+}
